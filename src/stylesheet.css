@@ -1,0 +1,18 @@
+body {
+    background-color: #243540;
+}
+
+.Joke {
+    font-family: 'Roboto',sans-serif;
+    font-size: 1em;
+    font-weight: 100;
+    color: #FFF;
+}
+
+.Question {
+    color: #BDBFBF;
+}
+
+.Answer {
+    margin-bottom: 2%;
+}
